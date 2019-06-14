@@ -1,2 +1,2 @@
 # Flappy_bird
-Fully functional Flappy bird game with score recorder
+Fully functional Flappy bird game using Pygame with score recorder.
